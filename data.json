@@ -1,0 +1,40 @@
+{    
+    "menus":[
+        {
+            "nombre":"Diseños florales",
+            "claseCss":".disenioFloral"            
+        },
+        {
+            "nombre":"Canastas y box",
+            "claseCss":".canastasBox"
+        },
+        {
+            "nombre":"Catering",
+            "claseCss":".catering"        
+        },
+        {
+            "nombre":"Complementos",
+            "claseCss":".complementos"
+        },
+        {
+            "nombre":"Eventos",
+            "claseCss":".eventos"
+        }
+    ],
+    "items":[
+        {
+            "imagen":"images/catalog/canasta-dulce-vino.jpeg",
+            "nombre":"Canasta dulce vino",
+            "descripcion":"Cansta de vino para una ocasión especial y una persona especial",
+            "clases":"eventos complementos"
+        },
+        {
+            "imagen":"images/catalog/canasta-dulce-vino2.jpeg",
+            "nombre":"Canasta dulce vino",
+            "descripcion":"Cansta de vino para una ocasión especial y una persona especial",
+            "clases":"canastasBox disenioFloral"
+        }        
+    ]    
+}
+
+
