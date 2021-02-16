@@ -23,7 +23,8 @@
     margin-bottom: 30px;
   }
   .top-nav-collapse .navbar-brand img {
-    width: 48%;
+    /*width: 48%;*/
+    width: 30%;
   }
   .pricing-table-item {
     margin-bottom: 30px;
@@ -53,7 +54,8 @@
     margin-bottom: 30px;
   }
   .top-nav-collapse .navbar-brand img {
-    width: 48%;
+    /*width: 48%;*/
+    width: 30%;
   }
   .btn-lg {
     padding: 7px 14px;
@@ -65,7 +67,8 @@
   }
   .navbar-brand img {
     margin: 5px 0;
-    width: 48%;
+    /*width: 48%;*/
+    width: 30%;
   }
   #carousel-area .carousel-item .carousel-caption h3 {
     font-size: 12px;
