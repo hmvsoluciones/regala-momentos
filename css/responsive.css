@@ -1,7 +1,7 @@
 /* only small desktops */
 @media (min-width: 1199px) and (max-width: 1472px) {
   .logoPNG{
-    max-width: 350px;
+    max-width: 280px;
   }
   .top-nav-collapse .navbar-brand img {
     width: 48%;
@@ -11,7 +11,7 @@
 /* only small desktops */
 @media (min-width: 992px) and (max-width: 1199px) {
   .logoPNG{
-    max-width: 250px;
+    max-width: 190px;
   }
   .top-nav-collapse .navbar-brand img {
     width: 48%;
@@ -21,7 +21,7 @@
 /* tablets */
 @media (max-width: 991px) {
   .logoPNG{
-    max-width: 250px;
+    max-width: 200;
   }
   .section-title {
     font-size: 30px;
@@ -35,7 +35,7 @@
 /* only small tablets */
 @media (min-width: 768px) and (max-width: 991px) {
   .logoPNG{
-    max-width: 200px;
+    max-width: 150px;
   }
   .section-title {
     font-size: 26px;
@@ -66,7 +66,7 @@
 /* mobile or only mobile */
 @media (max-width: 767px) {
   .logoPNG{
-    max-width: 150px;
+    max-width: 120px;
   }
   .section-padding {
     padding: 50px 0;
